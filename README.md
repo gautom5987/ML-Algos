@@ -1,1 +1,1 @@
-This repository contains Jupyter Notebook Implementation of various Machine Learning Algorithms.
+> This repository contains code implementation of various Machine Learning Algorithms.
